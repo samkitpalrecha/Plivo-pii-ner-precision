@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model outputs
+out/
+*.bin
+*.pt
+*.pth
+
+# Cache
+.cache/
+*.log
+
+# HuggingFace Cache
+~/.cache/huggingface/

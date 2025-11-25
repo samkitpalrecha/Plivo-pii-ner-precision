@@ -1,0 +1,9 @@
+torch
+transformers
+numpy
+tqdm
+seqeval
+# extra required libraries for the pre-trained model
+protobuf
+sentencepiece
+hf_xet
