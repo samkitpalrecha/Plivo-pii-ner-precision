@@ -1,3 +1,7 @@
+### Project Report  
+For the full detailed report, see:  
+[REPORT.md](REPORT.md)
+
 # PII NER Assignment Skeleton
 
 This repo is a skeleton for a token-level NER model that tags PII in STT-style transcripts.
