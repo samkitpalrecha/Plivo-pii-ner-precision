@@ -1,6 +1,6 @@
 ### Project Report  
 For the full detailed report, see:  
-[REPORT.md](REPORT.md)
+[README.md](README.md)
 
 # PII NER Assignment Skeleton
 
